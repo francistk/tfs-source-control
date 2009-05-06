@@ -1,0 +1,15 @@
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\bin\Debug\MSNRobot.exe
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\bin\Debug\MSNRobot.pdb
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\obj\Debug\ResolveAssemblyReference.cache
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\obj\Debug\MSNRobot.exe
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\obj\Debug\MSNRobot.pdb
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\bin\Debug\XihSolutions.DotMSN.dll
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\bin\Debug\XihSolutions.DotMSN.pdb
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\bin\Debug\XihSolutions.DotMSN.xml
+E:\Open Source\机器人\dotmsn-2.0.2-full\source\MSNRobot\bin\Debug\MSNRobot.exe.config
+C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\bin\Debug\MSNRobot.exe.config
+C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\bin\Debug\MSNRobot.exe
+C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\bin\Debug\MSNRobot.pdb
+C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\obj\Debug\MSNRobot.exe
+C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\obj\Debug\MSNRobot.pdb
