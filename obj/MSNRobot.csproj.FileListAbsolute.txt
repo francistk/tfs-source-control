@@ -13,3 +13,6 @@ C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\b
 C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\bin\Debug\MSNRobot.pdb
 C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\obj\Debug\MSNRobot.exe
 C:\Documents and Settings\Administrator\桌面\msn source\DotMsn2.0.3\MSNRobot\obj\Debug\MSNRobot.pdb
+E:\GoogleCode\Source\tfs-source-control\bin\Debug\MSNRobot.exe.config
+E:\GoogleCode\Source\tfs-source-control\obj\Debug\MSNRobot.exe
+E:\GoogleCode\Source\tfs-source-control\obj\Debug\MSNRobot.pdb
