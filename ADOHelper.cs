@@ -10,7 +10,8 @@
 // Release history
 // VERSION	DESCRIPTION
 //   2.0	Added support for FillDataset, UpdateDataset and "Param" helper methods
-//   3.0	New abstract class supporting the same methods using ADO.NET interfaces
+//   3.0	
+//   New abstract class supporting the same methods using ADO.NET interfaces
 //
 // ===============================================================================
 // Copyright (C) 2000-2001 Microsoft Corporation
